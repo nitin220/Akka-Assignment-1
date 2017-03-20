@@ -1,0 +1,215 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+14 items
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> /home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/FileWordsCounter$$anonfun$1.class
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> /home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/FileWordsCounter$.class
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> /home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/FileWordsCounter$delayedInit$body.class
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> /home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/FileWordsCounter.class
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> /home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/FileWordsCounterActor$$anonfun$receive$2$$anonfun$applyOrElse$1.class
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> /home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/FileWordsCounterActor$$anonfun$receive$2$$anonfun$applyOrElse$2.class
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> /home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/FileWordsCounterActor$$anonfun$receive$2.class
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> /home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/FileWordsCounterActor.class
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> /home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/LineWordsCounterActor$$anonfun$receive$1.class
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> /home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/LineWordsCounterActor.class
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> /home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/MsgContainingLine$.class
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> /home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/MsgContainingLine.class
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> /home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/MsgContainingWordsCount$.class
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> /home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/MsgContainingWordsCount.class
+binary dependencies:
+3 items
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> /home/knoldus/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.17.jar
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> /home/knoldus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> /usr/local/jdk/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+14 items
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> FileWordsCounter
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> FileWordsCounter$
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> FileWordsCounter$$anonfun$1
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> FileWordsCounter$delayedInit$body
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> FileWordsCounterActor
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> FileWordsCounterActor$$anonfun$receive$2
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> FileWordsCounterActor$$anonfun$receive$2$$anonfun$applyOrElse$1
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> FileWordsCounterActor$$anonfun$receive$2$$anonfun$applyOrElse$2
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> LineWordsCounterActor
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> LineWordsCounterActor$$anonfun$receive$1
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> MsgContainingLine
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> MsgContainingLine$
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> MsgContainingWordsCount
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> MsgContainingWordsCount$
+used names:
+98 items
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> !
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> &&
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> +
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> <init>
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> ==
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> ?
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> A1
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> AbstractFunction1
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> Actor
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> ActorRef
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> ActorSystem
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> App
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> B1
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> ClassTag
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> Codec
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> DurationInt
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> ExecutionContext
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> FileWordsCounter
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> FileWordsCounterActor
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> Function1
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> Implicits
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> Integer
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> Integer2int
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> LineWordsCounterActor
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> MsgContainingLine
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> MsgContainingWordsCount
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> None
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> Option
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> Predef
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> Product
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> Props
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> ScalaRunTime
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> Serializable
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> Source
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> String
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> Timeout
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> _hashCode
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> _toString
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> actor
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> actorOf
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> actorRef2Scala
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> akka
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> apply
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> asInstanceOf
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> ask
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> concurrent
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> context
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> duration
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> eq
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> fallbackSystemCodec
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> fileName
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> foreach
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> fromFile
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> future
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> getLines
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> global
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> int2Integer
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> io
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> isInstanceOf
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> java
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> lang
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> length
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> line
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> linesProcessed
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> linesProcessed_=
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> map
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> materializeClassTag
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> messageSender
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> messageSender_=
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> package
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> pattern
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> println
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> qual$1
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> result
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> runtime
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> scala
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> seconds
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> self
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> sender
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> split
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> string
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> system
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> terminate
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> timeout
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> toString
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> totalLines
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> totalLines_=
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> typedProductIterator
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> unchecked
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> util
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> wordCount
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> wordCount_=
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> words
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> wordsInLine
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> x$2
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> x$3
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> x$4
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> ||
+product stamps:
+14 items
+/home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/FileWordsCounter$$anonfun$1.class -> lastModified(1489933772000)
+/home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/FileWordsCounter$.class -> lastModified(1489933772000)
+/home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/FileWordsCounter$delayedInit$body.class -> lastModified(1489933772000)
+/home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/FileWordsCounter.class -> lastModified(1489933772000)
+/home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/FileWordsCounterActor$$anonfun$receive$2$$anonfun$applyOrElse$1.class -> lastModified(1489933772000)
+/home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/FileWordsCounterActor$$anonfun$receive$2$$anonfun$applyOrElse$2.class -> lastModified(1489933772000)
+/home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/FileWordsCounterActor$$anonfun$receive$2.class -> lastModified(1489933772000)
+/home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/FileWordsCounterActor.class -> lastModified(1489933772000)
+/home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/LineWordsCounterActor$$anonfun$receive$1.class -> lastModified(1489933772000)
+/home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/LineWordsCounterActor.class -> lastModified(1489933772000)
+/home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/MsgContainingLine$.class -> lastModified(1489933772000)
+/home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/MsgContainingLine.class -> lastModified(1489933772000)
+/home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/MsgContainingWordsCount$.class -> lastModified(1489933772000)
+/home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/MsgContainingWordsCount.class -> lastModified(1489933772000)
+source stamps:
+1 items
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> hash(abbb4bdfb69002f8a89bf3bbe9809e41bb157c38)
+binary stamps:
+3 items
+/home/knoldus/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.17.jar -> lastModified(1486740496000)
+/home/knoldus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1477022596000)
+/usr/local/jdk/jre/lib/rt.jar -> lastModified(1428686542000)
+class names:
+3 items
+/home/knoldus/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.17.jar -> akka.actor.Actor
+/home/knoldus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Serializable
+/usr/local/jdk/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC8yCl9AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAADc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwtXMuA3QABHNlbGZzcQB+AAsqM9JmdAAHdGltZW91dHNxAH4AC0JUA1l0AAdjb250ZXh0dXEAfgAJAAAAO3NxAH4AC3ltWr10AAZub3RpZnlzcQB+AAs5jQstdAAFYWN0b3JzcQB+AAuGDx9/dAAHUmVjZWl2ZXNxAH4AC+hJa650AAR3YWl0c3EAfgALY+KZrXQADSRhc0luc3RhbmNlT2ZzcQB+AAuyna0DdAAGc3lzdGVtc3EAfgALFZr6w3QABmZ1dHVyZXNxAH4AC4lQuQ10AAxwcm9kdWN0QXJpdHlzcQB+AAvGuvEVdAAObGluZXNQcm9jZXNzZWRzcQB+AAtmkEludAAGZXF1YWxzc3EAfgALki83/XQADGFzSW5zdGFuY2VPZnNxAH4AC6iR3Sh0AA5leGVjdXRpb25TdGFydHNxAH4AC1NMiyR0ABVMaW5lV29yZHNDb3VudGVyQWN0b3JzcQB+AAvNNcm0dAAMc3luY2hyb25pemVkc3EAfgALIdYfNnQADSRpc0luc3RhbmNlT2ZzcQB+AAuYa37pdAAHcmVjZWl2ZXNxAH4AC9lt7Tt0AApwcmVSZXN0YXJ0c3EAfgAL49UHaHQADW1lc3NhZ2VTZW5kZXJzcQB+AAvIaaUMdAAJd29yZENvdW50c3EAfgALJVkIzXQADWFyb3VuZFJlY2VpdmVzcQB+AAuCgbkTdAAIY2FuRXF1YWxzcQB+AAv8sFqMdAAGc3RyaW5nc3EAfgALWJEvfnQAC3Bvc3RSZXN0YXJ0c3EAfgALAjP8pHQABG1haW5zcQB+AAsGl167dAAIcG9zdFN0b3BzcQB+AAuBMY6odAANcHJvZHVjdFByZWZpeHNxAH4ACxVd7fh0AAlub3RpZnlBbGxzcQB+AAtWTWJRdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAsfqvhGdAAMaXNJbnN0YW5jZU9mc3EAfgALAJi+eHQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAsIza/OdAAVRmlsZVdvcmRzQ291bnRlckFjdG9yc3EAfgALvdFzqXQADmFyb3VuZFBvc3RTdG9wc3EAfgALQqqpM3QAF01zZ0NvbnRhaW5pbmdXb3Jkc0NvdW50c3EAfgALlvPrtnQAEEZpbGVXb3Jkc0NvdW50ZXJzcQB+AAui8aW7dAAGPGluaXQ+c3EAfgALfwxIO3QACHByZVN0YXJ0c3EAfgALeTjAvXQACXVuaGFuZGxlZHNxAH4AC/w8s1h0AAI9PXNxAH4ACw8FnF10AAVjbG9uZXNxAH4AC+Li6JZ0AAp0b3RhbExpbmVzc3EAfgALD5RujHQABGNvcHlzcQB+AAtmulTZdAAFd29yZHNzcQB+AAtXy5rudAAGc2VuZGVyc3EAfgAL3xcYE3QACHRvU3RyaW5nc3EAfgALDQTzYHQABGFyZ3NzcQB+AAuCV0+NdAACIT1zcQB+AAvXkLqodAAIZ2V0Q2xhc3NzcQB+AAsgNHugdAAOY29weSRkZWZhdWx0JDFzcQB+AAsthEJ4dAACbmVzcQB+AAt3XZuhdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALWKAUh3QAAmVxc3EAfgALGd6Cn3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC0rG1Ad0AAtkZWxheWVkSW5pdHNxAH4ACwpQ5Sp0ABFNc2dDb250YWluaW5nTGluZXNxAH4AC71ONth0AAIjI3NxAH4AC1ZiGxl0AAhmaW5hbGl6ZXNxAH4AC77ig9V0AA5wcm9kdWN0RWxlbWVudHNxAH4AC4YxGfp0AAhoYXNoQ29kZXNxAH4ACwwHrR50AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAVzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4Af3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Aq3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AqgBwc3EAfgCvc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJNMAAlpbmhlcml0ZWRxAH4Ak0wAB3BhcmVudHNxAH4Ak3hxAH4As3NxAH4AqgBwc3EAfgCvdXEAfgCOAAAAAHNxAH4AqgBwc3EAfgCvdXEAfgCOAAAAAHNxAH4AqgBwc3EAfgCvdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCydAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCyc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs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4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADEwABXZhbHVlcQB+AAx4cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNxAH4Aw3QAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3EAfgDHc3EAfgDKdXEAfgDNAAAAAnNxAH4Az3EAfgDScQB+ANRzcQB+AKAAcQB+AEN1cQB+AKIAAAAAc3EAfgDDdAAEVW5pdHEAfgGGdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4Bd3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4ApXQABVBsYWlucQB+AG1zcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AMRbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+ALJzcQB+AMN0AAVBcnJheXEAfgGGdXEAfgDBAAAAAXNxAH4Aw3QABlN0cmluZ3NxAH4Ax3NxAH4AynVxAH4AzQAAAANzcQB+AM9xAH4A2nNxAH4Az3EAfgDocQB+ANRzcQB+AKoAcHNxAH4Ar3VxAH4AwQAAAARzcQB+AMN0AANBcHBxAH4BhnNxAH4Aw3QAC0RlbGF5ZWRJbml0cQB+AYZzcQB+AMNxAH4A4nEAfgGjc3EAfgDDcQB+AOpxAH4BhnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFa5vgniHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEIvaG9tZS9rbm9sZHVzL0Rlc2t0b3AvQWtrYS1Bc3NpZ25tZW50LTAxL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSru0vftpAC+Kib87vpgJ5BuxV8OA==
+external apis:
+0 items
+source infos:
+1 items
+/home/knoldus/Desktop/Akka-Assignment-01/src/main/scala-2.11/WordCounter.scala -> 
+AAAABgAAAQAAACAADyAgICBjYXNlIG1zZyA9PgEAAALCAQAAAAkBAAkgICAgICAgICABAE4vaG9tZS9rbm9sZHVzL0Rlc2t0b3AvQWtrYS1Bc3NpZ25tZW50LTAxL3NyYy9tYWluL3NjYWxhLTIuMTEvV29yZENvdW50ZXIuc2NhbGEBAE4vaG9tZS9rbm9sZHVzL0Rlc2t0b3AvQWtrYS1Bc3NpZ25tZW50LTAxL3NyYy9tYWluL3NjYWxhLTIuMTEvV29yZENvdW50ZXIuc2NhbGEAOnBhdHRlcm5zIGFmdGVyIGEgdmFyaWFibGUgcGF0dGVybiBjYW5ub3QgbWF0Y2ggKFNMUyA4LjEuMSkBAAABAAAAJwAsICAgIGNhc2UgTXNnQ29udGFpbmluZ1dvcmRzQ291bnQod29yZHMpID0+IHsBAAADvAEAAAArAQArICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEATi9ob21lL2tub2xkdXMvRGVza3RvcC9Ba2thLUFzc2lnbm1lbnQtMDEvc3JjL21haW4vc2NhbGEtMi4xMS9Xb3JkQ291bnRlci5zY2FsYQEATi9ob21lL2tub2xkdXMvRGVza3RvcC9Ba2thLUFzc2lnbm1lbnQtMDEvc3JjL21haW4vc2NhbGEtMi4xMS9Xb3JkQ291bnRlci5zY2FsYQA5dW5yZWFjaGFibGUgY29kZSBkdWUgdG8gdmFyaWFibGUgcGF0dGVybiAnbXNnJyBvbiBsaW5lIDMyAQAAAQAAACcALCAgICBjYXNlIE1zZ0NvbnRhaW5pbmdXb3Jkc0NvdW50KHdvcmRzKSA9PiB7AQAAA7wBAAAAKwEAKyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAE4vaG9tZS9rbm9sZHVzL0Rlc2t0b3AvQWtrYS1Bc3NpZ25tZW50LTAxL3NyYy9tYWluL3NjYWxhLTIuMTEvV29yZENvdW50ZXIuc2NhbGEBAE4vaG9tZS9rbm9sZHVzL0Rlc2t0b3AvQWtrYS1Bc3NpZ25tZW50LTAxL3NyYy9tYWluL3NjYWxhLTIuMTEvV29yZENvdW50ZXIuc2NhbGEAEHVucmVhY2hhYmxlIGNvZGUBAAABAAAAIAAPICAgIGNhc2UgbXNnID0+AQAAAsIBAAAACQEACSAgICAgICAgIAEATi9ob21lL2tub2xkdXMvRGVza3RvcC9Ba2thLUFzc2lnbm1lbnQtMDEvc3JjL21haW4vc2NhbGEtMi4xMS9Xb3JkQ291bnRlci5zY2FsYQEATi9ob21lL2tub2xkdXMvRGVza3RvcC9Ba2thLUFzc2lnbm1lbnQtMDEvc3JjL21haW4vc2NhbGEtMi4xMS9Xb3JkQ291bnRlci5zY2FsYQA6cGF0dGVybnMgYWZ0ZXIgYSB2YXJpYWJsZSBwYXR0ZXJuIGNhbm5vdCBtYXRjaCAoU0xTIDguMS4xKQEAAAEAAAAnACwgICAgY2FzZSBNc2dDb250YWluaW5nV29yZHNDb3VudCh3b3JkcykgPT4gewEAAAO8AQAAACsBACsgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQBOL2hvbWUva25vbGR1cy9EZXNrdG9wL0Fra2EtQXNzaWdubWVudC0wMS9zcmMvbWFpbi9zY2FsYS0yLjExL1dvcmRDb3VudGVyLnNjYWxhAQBOL2hvbWUva25vbGR1cy9EZXNrdG9wL0Fra2EtQXNzaWdubWVudC0wMS9zcmMvbWFpbi9zY2FsYS0yLjExL1dvcmRDb3VudGVyLnNjYWxhADl1bnJlYWNoYWJsZSBjb2RlIGR1ZSB0byB2YXJpYWJsZSBwYXR0ZXJuICdtc2cnIG9uIGxpbmUgMzIBAAABAAAAJwAsICAgIGNhc2UgTXNnQ29udGFpbmluZ1dvcmRzQ291bnQod29yZHMpID0+IHsBAAADvAEAAAArAQArICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEATi9ob21lL2tub2xkdXMvRGVza3RvcC9Ba2thLUFzc2lnbm1lbnQtMDEvc3JjL21haW4vc2NhbGEtMi4xMS9Xb3JkQ291bnRlci5zY2FsYQEATi9ob21lL2tub2xkdXMvRGVza3RvcC9Ba2thLUFzc2lnbm1lbnQtMDEvc3JjL21haW4vc2NhbGEtMi4xMS9Xb3JkQ291bnRlci5zY2FsYQAQdW5yZWFjaGFibGUgY29kZQEAAAAA
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWub4J4h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL2tub2xkdXMvRGVza3RvcC9Ba2thLUFzc2lnbm1lbnQtMDEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
