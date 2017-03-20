@@ -46,7 +46,7 @@ class FileWordsCounterActor(fileName: String) extends Actor {
       wordCount += words
       linesProcessed += 1
       if (linesProcessed == totalLines) {
-        messageSender.map(_ ! wordCount) // provide result to process invoker
+        messageSender.map(_ ! wordCount)
       }
     }
 
