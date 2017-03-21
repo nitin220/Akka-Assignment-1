@@ -4,15 +4,15 @@ import org.apache.log4j.Logger
 import scala.concurrent.duration.DurationInt
 
 
-class BookingSystem extends Actor {
+class BookingSystemActor extends Actor {
   var totalSeats = 7
   val log = Logger.getLogger(this.getClass)
 
-  override def receive: Receive = {
+  def receive: Receive = {
     case num: Int =>
       implicit val timeout = Timeout(10 seconds)
       if (num <= totalSeats) {
-        log.info(s"Available seats = $totalSeats")
+        log.info(s"Available seats = $totalSeats ")
         totalSeats -= num
         log.info(s"Booked seats = $num ")
         log.info(s"Remaining seats = $totalSeats \n")
@@ -24,12 +24,11 @@ class BookingSystem extends Actor {
   }
 }
 
-class BookingCounter extends Actor {
+class BookingCounterActor extends Actor {
 
   def receive: Receive = {
     case bookingRequest: Int =>
-      val bookingSystem = context.actorSelection("../System")
-      bookingSystem forward bookingRequest
+      context.actorSelection("../System") forward bookingRequest
   }
 }
 
@@ -38,9 +37,9 @@ object BookingTickets extends App {
 
   val system = ActorSystem("BookingTickets")
 
-  system.actorOf(Props[BookingSystem], "System")
-  val bookingCounter1 = system.actorOf(Props[BookingCounter], "Counter-1")
-  val bookingCounter2 = system.actorOf(Props[BookingCounter], "Counter-2")
+  system.actorOf(Props[BookingSystemActor], "System")
+  val bookingCounter1 = system.actorOf(Props[BookingCounterActor], "Counter-1")
+  val bookingCounter2 = system.actorOf(Props[BookingCounterActor], "Counter-2")
 
   bookingCounter1 ! 1
   bookingCounter2 ! 2

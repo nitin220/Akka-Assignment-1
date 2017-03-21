@@ -13,9 +13,9 @@ case class MsgContainingWordsCount(words: Int)
 case object GetWordCountInFileMsg
 
 class LineWordsCounterActor extends Actor {
-  def receive = {
+  def receive: Receive = {
     case MsgContainingLine(line) =>
-      val wordsInLine = line.split(" ").length
+      val wordsInLine = line.split("[ ,!.]").length
       sender ! MsgContainingWordsCount(wordsInLine)
 
 
@@ -25,13 +25,12 @@ class LineWordsCounterActor extends Actor {
 
 class FileWordsCounterActor(fileName: String) extends Actor {
 
-
   var wordCount = 0
   var totalLines = 0
   var linesProcessed = 0
   var messageSender: Option[ActorRef] = None
 
-  def receive = {
+  def receive: Receive = {
 
     case GetWordCountInFileMsg =>
 
@@ -48,7 +47,7 @@ class FileWordsCounterActor(fileName: String) extends Actor {
       if (linesProcessed == totalLines) {
         messageSender.map(_ ! wordCount)
       }
-    }
+  }
 
 
 }

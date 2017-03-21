@@ -1,2 +1,3 @@
 [0m[[0mdebug[0m] [0mCopy resource mappings: [0m
 [0m[[0mdebug[0m] [0m	(/home/knoldus/Desktop/Akka-Assignment-01/src/main/resources/check.txt,/home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/check.txt)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/Desktop/Akka-Assignment-01/src/main/resources/log4j.properties,/home/knoldus/Desktop/Akka-Assignment-01/target/scala-2.11/classes/log4j.properties)[0m

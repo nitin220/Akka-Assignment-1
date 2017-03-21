@@ -1,2 +1,3 @@
 My name is nitin And i am in knoldus.
 Doing Akka anf counting words in this file.
+name.txt
